@@ -11,11 +11,11 @@ about:
 
 # Stuff that will be used on commands.
 collectibles-name: "ball"       # Don't add an "s" as the bot will already add the extra "s".
-bot-name: "Dockerless-Dex"      # The name of the dex.
+bot-name: "Ancientdex"      # The name of the dex.
 players-group-cog-name: "balls" # No spaces, must be lowercase.
 
 authorized-users:
-  - USER ID HERE
+  - acelery
   
 # For having multiple, just make sure it matches this look:
 #  - 1234567890
@@ -29,6 +29,6 @@ authorized-users:
 # Bot startup status configuration.
 startup_status:
   activity_type: "watching"                # Options: playing, streaming, listening, watching
-  activity_name: "Dockerless-Dex"          # Name of the activity.
-  status: "dnd"                            # Options: online, idle, dnd, invisible
-  stream_url: "http://twitch.tv/settings"  # Required if activity_type is streaming.
+  activity_name: "ancientdex"          # Name of the activity.
+  status: "online"                            # Options: online, idle, dnd, invisible
+  stream_url: "youtube.com"  # Required if activity_type is streaming.
