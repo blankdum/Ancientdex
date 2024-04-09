@@ -1,6 +1,6 @@
 # Welcome to the config file. Please read the README.md file found at the ymls folder.
 
-bot-token: "Your Token Here" # The bot token for your bot.
+bot-token: "MTIyNjIwNTc2NTIyNDg5MDQyOA.GHwHaA.OAMIbllNWfYAbL6oWEvqMF3YnwZCtHdQFdAgGg" # The bot token for your bot.
 text-prefix: "b."            # The prefix for text commands. They can be found at the README file mentioned above.
 
 # Stuff that will be shown on /about.
