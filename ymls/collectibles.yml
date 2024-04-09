@@ -1,15 +1,15 @@
 countryballs:
-    ball 1: url
+    ball 1: https://cdn.discordapp.com/attachments/1184325292228096013/1227090966775730336/nt_NsWdiuvYJJbipUK.png?ex=66272484&is=6614af84&hm=ce42add002340037cf9a644cf9091e5db56ff4143a67d98031de5ca7308d2591&
     ball 2: url again
 
 ball_to_emoji:
-    ball 1: emoji
+    ball 1: https://cdn.discordapp.com/attachments/1184325292228096013/1227090966775730336/nt_NsWdiuvYJJbipUK.png?ex=66272484&is=6614af84&hm=ce42add002340037cf9a644cf9091e5db56ff4143a67d98031de5ca7308d2591&
     ball 2: emoji again
 
 catch_names:
   ball 1:
-    - catch name 1
-    - catch name 2
+    - dwi
+    - danish west indies
   ball 2:
     - catch name 1
     - catch name 2
